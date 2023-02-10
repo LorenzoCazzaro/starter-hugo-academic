@@ -145,27 +145,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: service
-    content:
-      title: Service
-      items:
-        - date_start: '2022-10'
-          organization: Journal of Computer Security
-          organization_url: ''
-          title: Reviewer
-          title: External reviewer
-        - date_start: '2021-11'
-          organization: EuroS&P
-          organization_url: ''
-          title: External reviewer
-        - date_start: '2022-05'
-          organization: ACSAC
-          organization_url: ''
-          title: External reviewer
-    design:
-      columns: '2'
-      view: compact 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -206,38 +185,46 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
+  - block: awards
+    id: awards
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards and Achievements'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-10'
+          description: ''
+          organization: Università Ca' Foscari Venezia
+          organization_url: https://www.unive.it
+          title: First prize for the best master’s thesis in Computer Science
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018-05'
+          description: ''
+          organization: Università Ca' Foscari Venezia
+          organization_url: https://www.unive.it
+          title: Merit Award: ﬁrst prize for the best freshman of the Bachelor’s Degree in Computer
+Science
+          url: ''
+    design:
+      columns: '2'
 ---
