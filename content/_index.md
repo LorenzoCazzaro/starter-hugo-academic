@@ -56,14 +56,78 @@ sections:
           date_start: '2022-03-01'
           date_end: '2022-06-30'
           description: ''
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Cryptography teacher for CyberChallenge.IT 2022
+          company: Università Ca' Foscari Venezia
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
+          company_logo: ''
+          location: ''
+          date_start: '2022-03-01'
+          date_end: '2022-06-30'
+          description: ''
+        - title: Algorithms and Data Structures teaching assistant senior
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2021-12-01'
+          date_end: '2022-05-30'
+          description: ''
+        - title: Discrete Math teaching assistant
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2021-09-01'
+          date_end: '2022-01-30'
+          description: ''
+        - title: Cryptography and Software Security teacher for CyberChallenge.IT 2021
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2021-03-01'
+          date_end: '2021-06-30'
+          description: ''
+        - title: Linear Algebra teaching assistant
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2020-09-01'
+          date_end: '2021-01-30'
+          description: ''
+        - title: Research intern
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2020-09-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: ''
+        - title: Research fellow in Adversarial Machine Learning
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2020-12-01'
+          date_end: '2021-04-30'
+          description: ''
+        - title: Research intern
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2020-03-20'
+          date_end: '2020-09-30'
+          description: ''
+        - title: Trainee - Web Development
+          company: Ennova Research S.r.l. 
+          company_url: ''
+          company_logo: ''
+          location: 'Mestre/Venice'
+          date_start: '2020-02-15'
+          date_end: '2020-03-15'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
