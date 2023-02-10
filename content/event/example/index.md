@@ -1,16 +1,15 @@
 ---
-title: Speaker at SaTML 2023
+title: Example Talk
 
-event: IEEE Conference on Secure and Trustworthy Machine Learning (IEEE SaTML
-2023)
-event_url: https://satml.org/
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Hilton Raleigh North Hills
+location: Wowchemy HQ
 address:
-  street: 
-  city: Raleigh
-  region: North Carolina
-  postcode: ''
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
