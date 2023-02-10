@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Speaker at SaTML 2023
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: IEEE Conference on Secure and Trustworthy Machine Learning (IEEE SaTML 2023)
+event_url: https://satml.org/
 
 location: Wowchemy HQ
 address:
