@@ -24,19 +24,38 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Database Systems teaching assistant senior
+          company: Università Ca' Foscari Venezia
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: ''
+          location: ''
+          date_start: '2022-12-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: ''
+        - title: Algorithms and Data Structures teaching assistant senior
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2022-09-01'
+          date_end: ''
+          description: ''
+        - title: Discrete Math teaching assistant
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2022-09-01'
+          date_end: ''
+          description: ''
+        - title: Database Systems teaching assistant
+          company: Università Ca' Foscari Venezia
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2022-03-01'
+          date_end: '2022-06-30'
+          description: ''
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
