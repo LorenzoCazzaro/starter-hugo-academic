@@ -101,8 +101,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: ''
-          date_start: '2020-09-01'
-          date_end: '2020-12-31'
+          date_start: '2020-11-01'
+          date_end: '2021-01-31'
           description: ''
         - title: Research fellow in Adversarial Machine Learning
           company: Università Ca' Foscari Venezia
@@ -130,6 +130,42 @@ sections:
           description: ''
     design:
       columns: '2'
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      #text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: service
+    content:
+      title: Service
+      items:
+        - date_start: '2022-10'
+          organization: Journal of Computer Security
+          organization_url: ''
+          title: Reviewer
+          title: External reviewer
+        - date_start: '2021-11'
+          organization: EuroS&P
+          organization_url: ''
+          title: External reviewer
+        - date_start: '2022-05'
+          organization: ACSAC
+          organization_url: ''
+          title: External reviewer
+    design:
+      columns: '2'
+      view: compact 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
