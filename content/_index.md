@@ -146,9 +146,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: service
+    id: aaaaaaa
     content:
-      title: Service
+      title: aaaaaaaa
       date_format: Jan 2006
       items:
         - date_start: '2022-10'
