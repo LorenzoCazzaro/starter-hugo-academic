@@ -81,5 +81,5 @@ email: 'lorenzo.cazzaro@unive.it'
 highlight_name: true
 ---
 
-I'm a PhD student in Computer Science at Università Ca' Foscari Venezia. My research interests include security and verification of ML and applications of AI in cyber security. 
+I'm a PhD student in Computer Science at Università Ca' Foscari Venezia. My research interests include security and verification of Machine Learning and applications of Artificial Intelligence in Cyber Security. 
 {style="text-align: justify;"}
