@@ -146,6 +146,28 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: service
+    content:
+      title: Service
+      date_format: Jan 2006
+      items:
+        - date_start: '2022-10'
+          organization: Journal of Computer Security
+          organization_url: ''
+          title: Reviewer
+          title: External reviewer
+        - date_start: '2021-11'
+          organization: EuroS&P
+          organization_url: ''
+          title: External reviewer
+        - date_start: '2022-05'
+          organization: ACSAC
+          organization_url: ''
+          title: External reviewer
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: talks
     content:
       title: Talks
