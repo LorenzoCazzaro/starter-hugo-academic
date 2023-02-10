@@ -173,7 +173,7 @@ sections:
       title: Talks
       filters:
         folders:
-          - talks
+          - events
     design:
       columns: '2'
       view: compact
